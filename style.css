@@ -1,0 +1,31 @@
+img{
+    width: 200px;
+    height: 200px;
+    align-items: center;
+    margin: 30px;
+    justify-content: space-between;
+}
+
+.first_block{
+    background-color: mediumpurple;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.second_block{
+    background-color: lavender;
+    justify-content: center;
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.third_block{
+    background-color: plum;
+    justify-content: center;
+    display: flex;
+}
+
+h4{
+    text-align: center;
+}
